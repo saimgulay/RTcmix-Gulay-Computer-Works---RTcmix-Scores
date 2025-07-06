@@ -13,11 +13,14 @@ Each `.sco` file here is a self-contained composition — a living score — whe
 - Use of modulation effects (`FLANGE`, `JDELAY`, `REVERBIT`) as compositional devices
 - Experiments with pitch space, tuning systems, and formal emergence
 
+🎵 **Listen to selected works**:  
+[YouTube Playlist – RTcmix Scores by Saim Gülay](https://www.youtube.com/playlist?list=OLAK5uy_kNblX4vm9Xuwc0hDZcv_A065y-sKX1zJg)
+
 ---
 
 ## 📁 Folder Structure
 
--  RTcmix `.sco` files
+- RTcmix `.sco` files
 
 ---
 
@@ -48,4 +51,3 @@ You may not:
 ## 🧠 About
 
 I use RTcmix not as a plugin or backend, but as an instrument — a space where musical form and algorithm are collapsed into one. If you're curious about any score, process, or synthesis idea, feel free to open an issue or message me.
-
