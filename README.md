@@ -43,7 +43,7 @@ You may not:
 - Use these works commercially without written permission,  
 - Use them without crediting me.
 
-👉 For licensing, commissions or commercial usage, please contact me directly: [saimgulay@gmail.com](mailto:gulaysaim@hotmail.com)
+👉 For licensing, commissions or commercial usage, please contact me directly: [gulaysaim@hotmail.com](mailto:gulaysaim@hotmail.com)
 
 ---
 
