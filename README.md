@@ -23,7 +23,7 @@ Each `.sco` file here is a self-contained composition — a living score — whe
 
 ## 🔧 Requirements
 
-- RTcmix (tested with recent builds on macOS and Linux)
+- RTcmix (tested with recent builds on macOS)
 - Some scores may require multichannel output configuration
 
 ---
