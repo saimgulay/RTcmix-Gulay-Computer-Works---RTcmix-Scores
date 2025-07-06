@@ -13,7 +13,7 @@ Each `.sco` file here is a self-contained composition — a living score — whe
 - Use of modulation effects (`FLANGE`, `JDELAY`, `REVERBIT`) as compositional devices
 - Experiments with pitch space, tuning systems, and formal emergence
 
-🎵 **Listen to selected works**:  
+🎵 **Listen to selected works (more scores coming soon)**:  
 [YouTube Playlist – RTcmix Scores by Saim Gülay](https://www.youtube.com/playlist?list=OLAK5uy_kNblX4vm9Xuwc0hDZcv_A065y-sKX1zJg)
 
 ---
