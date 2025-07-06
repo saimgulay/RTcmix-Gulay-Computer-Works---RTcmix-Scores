@@ -17,9 +17,7 @@ Each `.sco` file here is a self-contained composition — a living score — whe
 
 ## 📁 Folder Structure
 
-- `scores/` — RTcmix `.sco` files
-- `renders/` *(optional)* — audio renders (if added)
-- `tools/` *(optional)* — helper scripts or tables
+-  RTcmix `.sco` files
 
 ---
 
