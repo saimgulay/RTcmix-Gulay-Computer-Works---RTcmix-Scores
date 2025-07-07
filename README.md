@@ -16,6 +16,8 @@ Each `.sco` file here is a self-contained composition — a living score — whe
 🎵 **Listen to selected works (more scores coming soon)**:  
 [YouTube Playlist – RTcmix Scores by Saim Gülay](https://www.youtube.com/playlist?list=OLAK5uy_kNblX4vm9Xuwc0hDZcv_A065y-sKX1zJg)
 
+Among the pieces, **"Biblo"** is a personal favourite — a meditative study in harmonic drift and stochastic gesture. It explores quiet instability through layered delays and unstable modal centres, and was written in a single session without revision.
+
 ---
 
 ## 📁 Folder Structure
